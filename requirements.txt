@@ -205,7 +205,7 @@ tweepy==3.8.0
 twilio==6.44.0
 typed-ast==1.4.0
 typing-extensions==3.7.4.3
-urllib3==1.25.7
+urllib3==1.26.5
 virtualenv==20.0.13
 wcwidth==0.1.7
 webdriver-manager==3.2.2
